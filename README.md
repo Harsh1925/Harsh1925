@@ -7,7 +7,7 @@
 
 ## 💫About Me :
 
-- 🌱 I’m currently learning **MERN Full Stack, Web development**
+- 🌱 I’m currently learning **MERN Full Stack Web development**
 
 - 💬 Ask me about **Python and C**
 
