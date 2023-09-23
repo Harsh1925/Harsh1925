@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN Full Stack Web development**
 
-- 💬 Ask me about **Python and C**
+- 💬 Ask me about **Python, C, and JavaScript**
 
 - 📫 How to reach me **h19modi@gmail.com**
 
