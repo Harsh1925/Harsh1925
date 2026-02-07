@@ -45,9 +45,20 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Highlights
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Harsh1925/Harsh1925/main/github-metrics.svg?sanitize=true&v=4" alt="GitHub Metrics" />
+  <img src="https://raw.githubusercontent.com/Harsh1925/Harsh1925/main/github-metrics.svg?sanitize=true&v=5" alt="GitHub Metrics" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Harsh1925/Harsh1925/main/github-trophies.svg?sanitize=true&v=5" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 🏅 Wins & Milestones
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Harsh1925/Harsh1925/main/github-trophies.svg?sanitize=true&v=5" alt="Wins & Milestones" />
 </p>
 
 ---
