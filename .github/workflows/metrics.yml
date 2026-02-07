@@ -13,6 +13,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
+      # --- Main premium card ---
       - name: Generate premium metrics
         uses: lowlighter/metrics@latest
         with:
@@ -22,14 +23,14 @@ jobs:
           # Premium look
           template: classic
           config_timezone: America/New_York
+          config_padding: 10, 10
           config_display: large
-          config_padding: 12, 12
           config_octicon: yes
 
-          # Keep it clean: NO activity (PR/issues), NO repositories (recent stars)
-          base: header, community
+          # What to show (clean + impactful)
+          base: header, activity, community, repositories
 
-          # Languages: show ALL (set high limit)
+          # Languages (cleaner + more accurate)
           plugin_languages: yes
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
@@ -37,6 +38,12 @@ jobs:
           plugin_languages_analysis_timeout: 30
           plugin_languages_threshold: 0%
           plugin_languages_limit: 25
+
+          # Strong “resume-like” signals
+          plugin_followup: yes
+          plugin_notable: yes
+          plugin_notable_from: all
+          plugin_notable_types: commit
 
           filename: github-metrics.svg
           output_action: commit
