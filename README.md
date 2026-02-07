@@ -1,29 +1,68 @@
-<h1 align="center">Yo 👋, I'm Harsh Modi</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h1 align="center">Hey 👋, I'm Harsh Modi</h1>
+<p align="center">
+  Full-Stack Developer • MERN • Go (gin) • Real-time Systems • Databases
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh1925&label=Profile%20views&color=0e75b6&style=flat" alt="harsh1925" /> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/harsh-modi-oo7"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:harshmodi134@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.instagram.com/__harsh__007/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://harsh1925.github.io/Harsh-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harsh1925" alt="harsh1925" /></a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harsh1925&label=Profile%20Views&color=0e75b6&style=flat" alt="harsh1925" />
+</p>
 
-## 💫About Me :
+---
 
-- 🌱 I’m currently learning **MERN Full Stack Web development**
+## 🚀 About Me
+- 🔭 Currently building full-stack projects and sharpening backend + system design skills  
+- 🌱 Learning **MERN Full Stack** and improving **Go backend performance**  
+- 💬 Ask me about **JavaScript, TypeScript, Python, Go, REST APIs, WebSockets, MongoDB/PostgreSQL**  
+- 📫 Reach me at **harshmodi134@gmail.com**  
+- ⚡ Fun fact: I enjoy turning “complex” into “simple” 😄  
 
-- 💬 Ask me about **Python, C, and JavaScript**
+---
 
-- 📫 How to reach me **harshmodi134@gmail.com**
+## 🧩 Featured Projects
 
-- ⚡ Fun fact **I think I am funny**
+- 🎬 **Movie Streaming Platform + AI Recommendations** (React, Go/gin, MongoDB, LangChainGo, OpenAI)  
+  Personalized movie suggestions + browse → playback flows + optimized queries.
 
-## 🌐Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/__harsh__007/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-modi-oo7/)  
+- 🤝 **Squaddle — Team Matchmaking Platform** (MERN)  
+  Team discovery + profiles + performance optimizations.
 
+- 🔐 **Real-time Messaging / Local-first Systems** (Node.js, Socket.IO, Docker)  
+  Real-time messaging patterns + deployment + observability.
 
-## 💻Languages and Tools
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-## 📊GitHub Stats :
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh1925&theme=light)<br/>
-![](https://github-readme-stats.vercel.app/api?username=Harsh1925&theme=flag-india&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Harsh1925&theme=flag-india&hide_border=true)
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,go,mongodb,postgres,mysql,docker,git,github,linux,python,java,figma&perline=9" />
+</p>
 
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=harsh1925&theme=flat&no-frame=true&row=1&column=7" alt="harsh1925" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Harsh1925&show_icons=true&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh1925&layout=compact&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh1925&hide_border=true" />
+</p>
+
+---
+
+## 🤝 Let’s Connect
+If you’re hiring or want to collaborate, feel free to reach out on LinkedIn or email.
