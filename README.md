@@ -45,17 +45,20 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harsh1925&theme=flat&no-frame=true&row=1&column=7" alt="harsh1925" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=harsh1925&show_icons=true&hide_border=true&cache_seconds=21600" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh1925&layout=compact&hide_border=true&cache_seconds=21600" />
 </p>
 
----
-
-## 📈 GitHub Stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Harsh1925&show_icons=true&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh1925&layout=compact&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=harsh1925&hide_border=true" />
+</p>
+
+## 🏆 Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=harsh1925&no-frame=true&row=1&column=7" />
 </p>
 
 <p align="center">
