@@ -46,17 +46,8 @@
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Harsh1925/Harsh1925/main/github-metrics.svg?sanitize=true&v=1" alt="GitHub Metrics" />
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics" />
+  <img src="https://raw.githubusercontent.com/Harsh1925/Harsh1925/main/github-metrics.svg?sanitize=true&v=2" alt="GitHub Metrics" />
 </p>
 
 ---
