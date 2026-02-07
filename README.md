@@ -47,12 +47,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Harsh1925/Harsh1925/main/github-metrics.svg?sanitize=true&v=10" alt="GitHub Metrics" />
-</p>
-
-## 🏆 Momentum Trophy
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Harsh1925/Harsh1925/main/github-trophy.svg?sanitize=true&v=10" alt="Momentum Trophy" />
+  <img src="https://raw.githubusercontent.com/Harsh1925/Harsh1925/main/github-metrics.svg?sanitize=true&v=20" alt="GitHub Metrics" />
 </p>
 
 ---
