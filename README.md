@@ -15,6 +15,12 @@
 </p>
 
 ---
+## 🏆 Achievements
+<p align="center">
+  <img src="./github-metrics.svg" alt="GitHub Metrics" />
+</p>
+
+---
 
 ## 🚀 About Me
 - 🔭 Currently building full-stack projects and sharpening backend + system design skills  
@@ -46,21 +52,9 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=harsh1925&hide_border=true" />
-</p>
-
-## 🏆 Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harsh1925&no-frame=true&row=1&column=7" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh1925&hide_border=true" />
 </p>
 
 ---
