@@ -46,10 +46,8 @@
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=harsh1925&show_icons=true&hide_border=true&cache_seconds=21600" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh1925&layout=compact&hide_border=true&cache_seconds=21600" />
+  <img src="./github-metrics.svg" alt="GitHub Metrics" />
 </p>
 
 <p align="center">
